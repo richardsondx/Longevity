@@ -5,6 +5,8 @@ Longevity is an open-source platform designed to transform your blood data into 
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app)
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
 
+![Longevity health dashboard showing biological age, top aging drivers, health categories, and weekly actions](screenshots/dashboard.png)
+
 ---
 
 ## ✨ Features
